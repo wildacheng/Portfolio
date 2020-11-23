@@ -19,7 +19,7 @@ showcase:
   button:
     icon: "icon-smile-fill"
     btnText: "Resume"
-    URL: "https://radity.com/en/contact/"
+    URL: "resume/Wilda-Cheng-Resume.pdf"
 
   socialLinks:
     - icon: "linkedin"
@@ -53,6 +53,7 @@ client_and_work:
     - logo:
         x: "img/skills/javascript.png"
         _2x: "img/skills/javascript@2x.png"
+      URL: "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
       alt: "Javascript"
 
     - logo:
@@ -115,16 +116,16 @@ client_and_work:
       is_even: true
 
 # contact
-contact:
-  enable: true
-  title: "Contact"
-  form:
-    method: "POST"
-    action: "#"
-    full_name: "Full Name"
-    email: "Email Address"
-    message: "Type Your Message Here"
-  button:
-    icon: "icon-mail-fill"
-    btnText: "Send Message"
+# contact:
+#   enable: true
+#   title: "Contact"
+#   form:
+#     method: "POST"
+#     action: "#"
+#     full_name: "Full Name"
+#     email: "Email Address"
+#     message: "Type Your Message Here"
+#   button:
+#     icon: "icon-mail-fill"
+#     btnText: "Send Message"
 
