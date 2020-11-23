@@ -17,19 +17,34 @@ showcase:
     x: "img/showcase/showcase-mobile.jpg"
 
   button:
-    icon: "icon-smile-fill"
+    # icon: "icon-smile-fill"
     btnText: "Resume"
     URL: "resume/Wilda-Cheng-Resume.pdf"
 
-  socialLinks:
-    - icon: "linkedin"
-      URL: "https://www.linkedin.com/in/wilda-cheng/"
+  button:
+    # icon: "icon-smile-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/wilda-cheng/"
 
-    - icon: "github"
-      URL: "https://github.com/wildacheng"
+  button:
+    # icon: "icon-smile-fill"
+    btnText: "GitHub"
+    URL: "https://github.com/wildacheng"
 
-    - icon: "youtube"
-      URL: "https://www.youtube.com/channel/UCxBh6Xno2YgulU6eb-OpA6w"
+  button:
+    # icon: "icon-smile-fill"
+    btnText: "YouTube"
+    URL: "https://www.youtube.com/channel/UCxBh6Xno2YgulU6eb-OpA6w"
+
+  # socialLinks:
+    # - icon: "linkedin"
+      # URL: "https://www.linkedin.com/in/wilda-cheng/"
+
+    # - icon: "github"
+      # URL: "https://github.com/wildacheng"
+
+    # - icon: "youtube"
+      # URL: "https://www.youtube.com/channel/UCxBh6Xno2YgulU6eb-OpA6w"
 
 # education
 education:
@@ -87,7 +102,7 @@ client_and_work:
       The frontend was built with ReactJS Framework and the backend was built with GO and PostgreSQL database."
 
       button:
-        icon: "icon-arrow-right"
+        # icon: "icon-arrow-right"
         btnText: "View"
         URL: "https://renters-review.herokuapp.com/"
       image:
@@ -98,7 +113,7 @@ client_and_work:
     - title: "REPLroom"
       description: "Real time collaborative coding and whiteboard application. Users can create rooms to collaborate on a secured REPL and whiteboard environment. Integrated OpenTok built on WebRTC for video chat and messaging built on Socket.IO, allow for real time communication."
       button:
-        icon: "icon-arrow-right"
+        # icon: "icon-arrow-right"
         btnText: "View"
         URL: "https://replroom.herokuapp.com/"
       image:
@@ -110,7 +125,7 @@ client_and_work:
       description: "E-commerce website specializing in wine. Users can browse varieties of wine, add items to their cart and checkout with the Stripe API. It's a full stack application with CRUD functionality for admins to update the site."
 
       button:
-        icon: "icon-arrow-right"
+        # icon: "icon-arrow-right"
         btnText: "View"
         URL: "https://daisys-wine-shop.herokuapp.com/"
       image:
