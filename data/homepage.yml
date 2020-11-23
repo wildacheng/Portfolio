@@ -21,20 +21,20 @@ showcase:
     btnText: "Resume"
     URL: "resume/Wilda-Cheng-Resume.pdf"
 
-  button:
-    # icon: "icon-smile-fill"
-    btnText: "Linkedin"
-    URL: "https://www.linkedin.com/in/wilda-cheng/"
+  # button:
+  #   icon: "icon-smile-fill"
+  #   btnText: "Linkedin"
+  #   URL: "https://www.linkedin.com/in/wilda-cheng/"
 
-  button:
-    # icon: "icon-smile-fill"
-    btnText: "GitHub"
-    URL: "https://github.com/wildacheng"
+  # button:
+  #   icon: "icon-smile-fill"
+  #   btnText: "GitHub"
+  #   URL: "https://github.com/wildacheng"
 
-  button:
-    # icon: "icon-smile-fill"
-    btnText: "YouTube"
-    URL: "https://www.youtube.com/channel/UCxBh6Xno2YgulU6eb-OpA6w"
+  # button:
+  #   icon: "icon-smile-fill"
+  #   btnText: "YouTube"
+  #   URL: "https://www.youtube.com/channel/UCxBh6Xno2YgulU6eb-OpA6w"
 
   # socialLinks:
     # - icon: "linkedin"
