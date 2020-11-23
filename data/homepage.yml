@@ -53,7 +53,6 @@ client_and_work:
     - logo:
         x: "img/skills/javascript.png"
         _2x: "img/skills/javascript@2x.png"
-      URL: "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
       alt: "Javascript"
 
     - logo:
@@ -83,7 +82,10 @@ client_and_work:
 
   works:
     - title: "Renter's Review"
-      description: "Real Estate Property Review and Blog Application."
+      description: "Real Estate property review and blog application.
+      It's a full stack SPA application where users can write reviews for properties.
+      The frontend was built with ReactJS Framework and the backend was built with GO and PostgreSQL database."
+
       button:
         icon: "icon-arrow-right"
         btnText: "View"
@@ -94,7 +96,7 @@ client_and_work:
       is_even: true
 
     - title: "REPLroom"
-      description: "Real Time Collaborative Coding and Whiteboard Application."
+      description: "Real time collaborative coding and whiteboard application. Users can create rooms to collaborate on a secured REPL and whiteboard environment. Integrated OpenTok built on WebRTC for video chat and messaging built on Socket.IO, allow for real time communication."
       button:
         icon: "icon-arrow-right"
         btnText: "View"
@@ -105,7 +107,8 @@ client_and_work:
       is_even: false
 
     - title: "Daisy's Wine Shop"
-      description: "E-commerce Website Specializing in Wine."
+      description: "E-commerce website specializing in wine. Users can browse varieties of wine, add items to their cart and checkout with the Stripe API. It's a full stack application with CRUD functionality for admins to update the site."
+
       button:
         icon: "icon-arrow-right"
         btnText: "View"
