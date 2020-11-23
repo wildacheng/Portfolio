@@ -1,0 +1,130 @@
+# homepage
+homepage:
+  head:
+    title: "Home"
+# showcase
+showcase:
+  enable: true
+  title: "Hello, I’m Wilda."
+  subtitle: "Software Developer"
+  description: "After being a residential Realtor for 5 years, I decided on a career shift that would allow me to create with no boundaries as a Software Developer. I genuinely enjoy being in an environment where I am constantly learning and improving. I am passionate about incorporating my problem solving and communication skills in creating applications to solve real world problems. I am a full stack developer specializing in Javascript and currently open to new opportunities as a Full Stack or Frontend Engineer!"
+  image:
+    alt: "Showcase keyboard and mouse image"
+    x: "img/showcase/showcase.png"
+    _2x: "img/showcase/showcase@2x.png"
+  imageMobile:
+    alt: "Showcase keyboard and mouse image"
+    x: "img/showcase/showcase-mobile.jpg"
+
+  button:
+    icon: "icon-smile-fill"
+    btnText: "Resume"
+    URL: "https://radity.com/en/contact/"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/wilda-cheng/"
+
+    - icon: "github"
+      URL: "https://github.com/wildacheng"
+
+    - icon: "youtube"
+      URL: "https://www.youtube.com/channel/UCxBh6Xno2YgulU6eb-OpA6w"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "Southern New Hampshire University"
+      year: "Present"
+      degree: "Associate of Computer Science"
+
+    - university: "Full Stack Academy"
+      year: "2020"
+      degree: "Immersive Software Engineering Program"
+
+# Client & Work
+client_and_work:
+  title: "Projects"
+  enable: true
+
+  clients:
+    - logo:
+        x: "img/skills/javascript.png"
+        _2x: "img/skills/javascript@2x.png"
+      alt: "Javascript"
+
+    - logo:
+        x: "img/skills/expressjs.png"
+        _2x: "img/skills/expressjs@2x.png"
+      alt: "Express.js"
+
+    - logo:
+        x: "img/skills/nodejs.png"
+        _2x: "img/skills/nodejs@2x.png"
+      alt: "Node.js"
+
+    - logo:
+        x: "img/skills/html-css.png"
+        _2x: "img/skills/html-css@2x.png"
+      alt: "Html&Css"
+
+    - logo:
+        x: "img/skills/react-redux.png"
+        _2x: "img/skills/react-redux@2x.png"
+      alt: "React-Redux.js"
+
+    - logo:
+        x: "img/skills/postgreSQL.png"
+        _2x: "img/skills/postgreSQL@2x.png"
+      alt: "postgreSQL"
+
+  works:
+    - title: "Renter's Review"
+      description: "Real Estate Property Review and Blog Application."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "View"
+        URL: "https://renters-review.herokuapp.com/"
+      image:
+        x: "img/projects/renters-review.png"
+        _2x: "img/projects/renters-review@2x.png"
+      is_even: true
+
+    - title: "REPLroom"
+      description: "Real Time Collaborative Coding and Whiteboard Application."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "View"
+        URL: "https://replroom.herokuapp.com/"
+      image:
+        x: "img/projects/repl-room.png"
+        _2x: "img/projects/repl-room@2x.png"
+      is_even: false
+
+    - title: "Daisy's Wine Shop"
+      description: "E-commerce Website Specializing in Wine."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "View"
+        URL: "https://daisys-wine-shop.herokuapp.com/"
+      image:
+        x: "img/projects/daisys-wine-shop.png"
+        _2x: "img/projects/daisys-wine-shop@2x.png"
+      is_even: true
+
+# contact
+contact:
+  enable: true
+  title: "Contact"
+  form:
+    method: "POST"
+    action: "#"
+    full_name: "Full Name"
+    email: "Email Address"
+    message: "Type Your Message Here"
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+
