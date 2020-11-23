@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://elated-wright-7ae697.netlify.app/"
 languageCode = "en-us"
 title = "Portfolio"
 theme = "raditian-free-hugo-theme"
