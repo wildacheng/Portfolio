@@ -19,7 +19,7 @@ showcase:
   button:
     # icon: "icon-smile-fill"
     btnText: "Resume"
-    URL: "resume/Wilda-Cheng-Resume.pdf"
+    # URL: "resume/Wilda-Cheng-Resume.pdf"
 
   # button:
   #   icon: "icon-smile-fill"
@@ -51,9 +51,9 @@ education:
   enable: true
   title: "Education"
   items:
-    - university: "Southern New Hampshire University"
-      year: "Present"
-      degree: "Associate of Computer Science"
+    # - university: "Southern New Hampshire University"
+    #   year: "Present"
+    #   degree: "Associate of Computer Science"
 
     - university: "Full Stack Academy"
       year: "2020"
